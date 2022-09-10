@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Dandi Irwanto
-- 👀 I’m interested in Back-End and DevOps
-- 🌱 I’m currently learning Golang, Javascript, & Java
+- 👋 Hi, I’m Dandi Irwanto.
+- 👀 I’m interested in Back-End and DevOps.
+- 🌱 I’m currently learning Golang, Javascript, & Java.
 - You can view my portfolio on [LinkedIn](https://www.linkedin.com/in/dandiir/).
 - I have attended training in qwiklab from the challenge held by google cloud, [Google Skill Boost Profile](https://google.qwiklabs.com/public_profiles/e912a398-1c94-4d8c-89bb-6f7f17d9fb07).
+- My Blog on [Medium](https://medium.com/@dandi-ir20).
 
 ### Github Statistic
 <p align="left">
