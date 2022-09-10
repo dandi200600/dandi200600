@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dandi Irwanto
+- 👋 Hi, I’m Dandi Irwanto
 - 👀 I’m interested in Back-End and DevOps
 - 🌱 I’m currently learning Golang, Javascript, & Java
 - You can view my portfolio on [LinkedIn](https://www.linkedin.com/in/dandiir/).
