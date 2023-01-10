@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dandi Irwanto</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dandiirwanto20&label=Profile%20views&color=0e75b6&style=flat" alt="dandiirwanto20" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dandiirwanto20" alt="dandiirwanto20" /></a> </p>
-
-- 🌱 I’m currently learning **Golang, Javascript (NestJS, ExpressJs), PHP (Laravel))**
+<h3 align="center">A passionate Back-End Developer from Indonesia</h3>
+<br/>
+<img align="right" alt="BlueLock" width="300" src="https://i.kym-cdn.com/photos/images/original/001/931/959/2e4.gif" />
+<br/>
+- 🌱 I’m currently learning **Golang, Javascript (NestJS, ExpressJs), PHP (Laravel) and DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dandiirwanto20/](https://github.com/dandiirwanto20/)
 
