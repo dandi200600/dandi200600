@@ -3,7 +3,7 @@
 <br/>
 <img align="right" alt="BlueLock" width="300" src="https://i.kym-cdn.com/photos/images/original/001/931/959/2e4.gif" />
 <br/>
-- 🌱 I’m currently learning **Golang, Javascript (NestJS, ExpressJs), PHP (Laravel) and DevOps**
+- 🌱 I’m currently learning **Golang, Javascript (NestJS, ExpressJs, Fastify), PHP (Laravel, Yii2), TypeScript (NestJS) and DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dandiirwanto20/](https://github.com/dandiirwanto20/)
 
