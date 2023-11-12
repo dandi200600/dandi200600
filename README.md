@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dandi Irwanto</h1>
-<h3 align="center">A passionate Back-End Developer from Indonesia</h3>
+<h3 align="center">Back-End Developer | Software Engineer</h3>
 <br/>
 <img align="right" alt="BlueLock" width="300" src="https://i.kym-cdn.com/photos/images/original/001/931/959/2e4.gif" />
 <br/>
