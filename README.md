@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">Financial Technology Industry</p>
+<p align="left">Fintech Industry</p>
 
 ###
 
